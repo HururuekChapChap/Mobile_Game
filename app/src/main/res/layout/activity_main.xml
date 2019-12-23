@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_background"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/StartButton"
+        android:layout_width="154dp"
+        android:layout_height="146dp"
+        android:layout_marginLeft="580dp"
+        android:layout_marginTop="300dp"
+        android:contentDescription="TODO"
+        android:background="#00ff0000"
+        />
+
+
+</RelativeLayout>
